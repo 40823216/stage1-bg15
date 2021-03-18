@@ -216,6 +216,7 @@ vertical: body pane on the botton</t>
 <t tx="leo.20200818170535.1">&lt;section&gt;
     &lt;h2&gt;主題:自動澆花器&lt;/h2&gt;
     &lt;p&gt;&lt;img ait="" height="250" src="./../images/澆花器第一版_等角圖.png" width="250"/&gt;&lt;img ait="" height="250" src="./../images/澆花器第一版_側視圖.png" width="250"/&gt;&lt;/p&gt;
+    &lt;h4&gt;動機:喜歡種植物但常常忘記澆水，出門在外也不方便澆水&lt;/h4&gt;
 &lt;/section&gt;
 
 </t>
