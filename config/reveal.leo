@@ -41,6 +41,13 @@
 <v t="leo.20200818195502.1"><vh>模擬_失敗</vh></v>
 <v t="leo.20200818195520.1"><vh>solidworks模擬</vh></v>
 </v>
+<v t="leo.20210318213338.1"><vh>問題:小組成員倉儲不同步</vh>
+<v t="leo.20210318213738.1"><vh>問題</vh></v>
+</v>
+<v t="leo.20210318213547.1"><vh>心得</vh>
+<v t="leo.20210318213607.1"><vh>陳弘勛</vh></v>
+<v t="leo.20210318213632.1"><vh>陳昱愷</vh></v>
+</v>
 </v>
 </v>
 </v>
@@ -290,17 +297,40 @@ vertical: body pane on the botton</t>
 </t>
 <t tx="leo.20200818195502.1">&lt;section&gt;
     &lt;h2&gt;使用Coppeliasim模擬結果失敗&lt;/h2&gt;
-    &lt;p&gt;&lt;img ait="" height="400" src="./../images/2021-03-17_23-23-17.gif/"width="500"/&gt;&lt;/p&gt;
+    &lt;p&gt;&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/mRp6C5Z5vRU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
 &lt;/section&gt;
 </t>
 <t tx="leo.20200818195520.1">&lt;section&gt;
     &lt;h2&gt;最後使用Solidworks模擬&lt;/h2&gt;
-    &lt;p&gt;&lt;img ait="" height="400" src="./../images/solidworks第二版模擬.gif/"width="300"/&gt;&lt;img ait="" height="400" src="./../images/solidworks第二版模擬2.gif/"width="300"/&gt;&lt;/p&gt;
+    &lt;p&gt;&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/TVHllr5_fzk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
 &lt;/section&gt;
 </t>
 <t tx="leo.20210318183611.1">&lt;section&gt;
     &lt;h2&gt;第 一版組合圖&lt;/h2&gt;
     &lt;p&gt;&lt;img ait="" height="400" src="./../images/第一版_組合圖.png" width="500"/&gt;&lt;/p&gt;
 &lt;/section&gt;</t>
+<t tx="leo.20210318213338.1">&lt;section&gt;
+     @others
+&lt;/section&gt;
+
+
+</t>
+<t tx="leo.20210318213547.1">&lt;section&gt;
+     @others
+&lt;/section&gt;
+
+
+</t>
+<t tx="leo.20210318213607.1">&lt;section&gt;
+    &lt;h2&gt;最後使用Solidworks模擬&lt;/h2&gt;
+    &lt;p&gt;&lt;img ait="" height="400" src="./../images/solidworks第二版模擬.gif/"width="300"/&gt;&lt;img ait="" height="400" src="./../images/solidworks第二版模擬2.gif/"width="300"/&gt;&lt;/p&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20210318213632.1">&lt;section&gt;
+    &lt;h2&gt;最後使用Solidworks模擬&lt;/h2&gt;
+    &lt;p&gt;&lt;img ait="" height="400" src="./../images/solidworks第二版模擬.gif/"width="300"/&gt;&lt;img ait="" height="400" src="./../images/solidworks第二版模擬2.gif/"width="300"/&gt;&lt;/p&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20210318213738.1"></t>
 </tnodes>
 </leo_file>
