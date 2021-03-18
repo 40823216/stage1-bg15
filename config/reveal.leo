@@ -257,7 +257,7 @@ vertical: body pane on the botton</t>
 </t>
 <t tx="leo.20200818171412.1">&lt;section&gt;
     &lt;h2&gt;結構零件圖&lt;/h2&gt;
-    &lt;p&gt;&lt;img ait="" height="400" src="./../images/第一版_主體.png" width="500"/&gt;&lt;/p&gt;&lt;h4&gt;澆花器主體跟第一版一致&lt;/h4&gt;
+    &lt;p&gt;&lt;img ait="" height="400" src="./../images/Screenshot_19.png" width="500"/&gt;&lt;/p&gt;&lt;h4&gt;澆花器主體&lt;/h4&gt;
 &lt;/section&gt;
 </t>
 <t tx="leo.20200818194721.1">&lt;section&gt;
@@ -319,7 +319,7 @@ vertical: body pane on the botton</t>
 </t>
 <t tx="leo.20210318213607.1">&lt;section&gt;
 &lt;h2&gt;心得_40823216陳弘勛&lt;/h2&gt;
-    &lt;p&gt;在這短短四周的產品設計實習中，我學會了如何利用Github來做成多人的倉儲維護和嘗識的開發和模擬。我覺得這是一次不錯的實習，雖然這次只有兩個人去做協同，人士不是很多，但在未來工作中，一定會遇到多人的產品開發，所以我只要搞懂，就能更從容地去應對。&lt;/p&gt;
+    &lt;p&gt;在這短短四周的產品設計實習中，我學會了如何利用Github來做成多人的倉儲維護和嘗識的開發和模擬。我覺得這是一次不錯的實習，雖然這次只有兩個人去做協同，人不是很多，但在未來工作中，一定會遇到多人的產品開發，所以我只要搞懂，就能更從容地去應對。&lt;/p&gt;
 &lt;/section&gt;
 </t>
 <t tx="leo.20210318213632.1">&lt;section&gt;
@@ -340,7 +340,7 @@ vertical: body pane on the botton</t>
 &lt;/section&gt;</t>
 <t tx="leo.20210318225216.1">&lt;section&gt;
     &lt;h2&gt;第三版_使用Coppeliasim模擬&lt;/h2&gt;
-    &lt;p&gt;&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/B9QXkMFYvJk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
+    &lt;p&gt;&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/nL4geEJBX1A" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
 &lt;/section&gt;</t>
 <t tx="leo.20210318225850.1">&lt;section&gt;
     &lt;h2&gt;第三版_等角圖&lt;/h2&gt;
