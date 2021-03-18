@@ -41,12 +41,14 @@
 <v t="leo.20200818195502.1"><vh>模擬_失敗</vh></v>
 <v t="leo.20200818195520.1"><vh>solidworks模擬</vh></v>
 </v>
-<v t="leo.20210318213338.1"><vh>問題:小組成員倉儲不同步</vh>
-<v t="leo.20210318213738.1"><vh>問題</vh></v>
+<v t="leo.20210318224757.1"><vh>第三版</vh>
+<v t="leo.20210318225211.1"><vh>第三版_上視圖</vh></v>
+<v t="leo.20210318225850.1"><vh>第三版_等角</vh></v>
+<v t="leo.20210318225216.1"><vh>第三版_使用Coppeliasim模擬</vh></v>
 </v>
 <v t="leo.20210318213547.1"><vh>心得</vh>
-<v t="leo.20210318213607.1"><vh>陳弘勛</vh></v>
 <v t="leo.20210318213632.1"><vh>陳昱愷</vh></v>
+<v t="leo.20210318213607.1"><vh>陳弘勛</vh></v>
 </v>
 </v>
 </v>
@@ -301,7 +303,7 @@ vertical: body pane on the botton</t>
 &lt;/section&gt;
 </t>
 <t tx="leo.20200818195520.1">&lt;section&gt;
-    &lt;h2&gt;最後使用Solidworks模擬&lt;/h2&gt;
+    &lt;h2&gt;使用Solidworks模擬&lt;/h2&gt;
     &lt;p&gt;&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/TVHllr5_fzk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
 &lt;/section&gt;
 </t>
@@ -309,12 +311,6 @@ vertical: body pane on the botton</t>
     &lt;h2&gt;第 一版組合圖&lt;/h2&gt;
     &lt;p&gt;&lt;img ait="" height="400" src="./../images/第一版_組合圖.png" width="500"/&gt;&lt;/p&gt;
 &lt;/section&gt;</t>
-<t tx="leo.20210318213338.1">&lt;section&gt;
-     @others
-&lt;/section&gt;
-
-
-</t>
 <t tx="leo.20210318213547.1">&lt;section&gt;
      @others
 &lt;/section&gt;
@@ -322,15 +318,33 @@ vertical: body pane on the botton</t>
 
 </t>
 <t tx="leo.20210318213607.1">&lt;section&gt;
-    &lt;h2&gt;最後使用Solidworks模擬&lt;/h2&gt;
-    &lt;p&gt;&lt;img ait="" height="400" src="./../images/solidworks第二版模擬.gif/"width="300"/&gt;&lt;img ait="" height="400" src="./../images/solidworks第二版模擬2.gif/"width="300"/&gt;&lt;/p&gt;
+&lt;h2&gt;心得_40823216陳弘勛&lt;/h2&gt;
+    &lt;p&gt;在這短短四周的產品設計實習中，我學會了如何利用Github來做成多人的倉儲維護和嘗識的開發和模擬。我覺得這是一次不錯的實習，雖然這次只有兩個人去做協同，人士不是很多，但在未來工作中，一定會遇到多人的產品開發，所以我只要搞懂，就能更從容地去應對。&lt;/p&gt;
 &lt;/section&gt;
 </t>
 <t tx="leo.20210318213632.1">&lt;section&gt;
-    &lt;h2&gt;最後使用Solidworks模擬&lt;/h2&gt;
-    &lt;p&gt;&lt;img ait="" height="400" src="./../images/solidworks第二版模擬.gif/"width="300"/&gt;&lt;img ait="" height="400" src="./../images/solidworks第二版模擬2.gif/"width="300"/&gt;&lt;/p&gt;
+&lt;h2&gt;心得_40823211陳昱愷&lt;/h2&gt;
+    &lt;p&gt;在訂好自動澆花器這個題目後，我開始思考著要如何達到自動澆花的效果，如果要澆花，就必須將澆花器傾斜至一定的角度水才流的出來，所以我們就把主要問題放在如何傾斜澆花器。製作過程也蠻愉快的，這是我當初進入機械設計想學的東西，更是我選機械設計的主要原因，設計是為了使生活更便利，不再為忘記澆花而煩惱。和組員合作過程也非常愉快，一起花許多時間、犧牲睡眠的完成這道題目，也謝謝他的努力與付出&lt;/p&gt;
 &lt;/section&gt;
 </t>
-<t tx="leo.20210318213738.1"></t>
+<t tx="leo.20210318224757.1">&lt;section&gt;
+     @others
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20210318225211.1">&lt;section&gt;
+    &lt;h2&gt;第三版_上視圖&lt;/h2&gt;
+    &lt;p&gt;&lt;img ait="" height="400" src="./../images/第三版_上視圖.png" width="500"/&gt;&lt;/p&gt;
+    &lt;h4&gt;將曲柄由一個增加到兩個。&lt;/h4&gt;
+    
+&lt;/section&gt;</t>
+<t tx="leo.20210318225216.1">&lt;section&gt;
+    &lt;h2&gt;第三版_使用Coppeliasim模擬&lt;/h2&gt;
+    &lt;p&gt;&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/B9QXkMFYvJk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20210318225850.1">&lt;section&gt;
+    &lt;h2&gt;第三版_等角圖&lt;/h2&gt;
+    &lt;p&gt;&lt;img ait="" height="400" src="./../images/第三版_等角圖.png" width="500"/&gt;&lt;/p&gt;&lt;h4&gt;&lt;/h4&gt;
+&lt;/section&gt;</t>
 </tnodes>
 </leo_file>
