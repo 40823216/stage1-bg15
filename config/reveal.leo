@@ -33,7 +33,7 @@
 <v t="leo.20200818194721.1"><vh>底座</vh></v>
 <v t="leo.20200818194751.1"><vh>支架</vh></v>
 <v t="leo.20200818194840.1"><vh>蓋子</vh></v>
-<v t="leo.20200818195039.1"><vh>軸</vh></v>
+<v t="leo.20200818195039.1"><vh>圓盤</vh></v>
 <v t="leo.20200818195147.1"><vh>銷</vh></v>
 </v>
 <v t="leo.20200818195426.1"><vh>模擬</vh>
@@ -273,13 +273,13 @@ vertical: body pane on the botton</t>
 
 </t>
 <t tx="leo.20200818194840.1">&lt;section&gt;
-    &lt;h2&gt;支架&lt;/h2&gt;
+    &lt;h2&gt;蓋子&lt;/h2&gt;
     &lt;p&gt;&lt;img ait="" height="400" src="./../images/第二版_蓋子.png" width="500"/&gt;&lt;/p&gt;&lt;h4&gt;新增了蓋子。&lt;/h4&gt;
 &lt;/section&gt;
 
 </t>
 <t tx="leo.20200818195039.1">&lt;section&gt;
-    &lt;h2&gt;支架&lt;/h2&gt;
+    &lt;h2&gt;圓盤&lt;/h2&gt;
     &lt;p&gt;&lt;img ait="" height="400" src="./../images/第二版_軸.png" width="500"/&gt;&lt;/p&gt;&lt;h4&gt;新增了了軸作為曲柄搖桿機構中的曲柄。(也是整個機構中的主動件)&lt;/h4&gt;
 &lt;/section&gt;</t>
 <t tx="leo.20200818195147.1">&lt;section&gt;
